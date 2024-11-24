@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  margin: 0 auto;
+  max-width: 70ch;
+  padding: 2em 1em;
+}
+h1 {
+  margin-bottom: 0.5em;
+  line-height: 1.2;
+}
+h2,
+h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.2;
+}
+h1 {
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+  font-size: 1.5em;
+}
+p,
+ul,
+ol {
+  margin-bottom: 1em;
+}
+ul,
+ol {
+  padding-left: 2em;
+}
